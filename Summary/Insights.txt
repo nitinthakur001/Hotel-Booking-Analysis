@@ -1,0 +1,25 @@
+Hotel Booking Analysis – Project Insights
+
+1. Guest Type Behavior:
+   - Couples are the most frequent guests and have the highest cancellation rate (~39.8%).
+   - Families follow closely with ~34.4% cancellation, while Singles are comparatively more stable (~29%).
+
+2. Hotel Type Trends:
+   - City Hotels show a significantly higher cancellation rate (~41.7%) compared to Resort Hotels (~27.8%).
+   - May indicate shorter stays or more last-minute travel in urban locations.
+
+3. Room Assignment Impact:
+   - Guests receiving undesired rooms had a cancellation rate of only ~5.4%.
+   - Suggests cancellations may occur before room allocation decisions.
+
+4. Seasonal Insights:
+   - Cancellations peak in summer months: August (~5,239), July (~4,742), and June (~4,543).
+   - Possible factors: overbooking, uncertain travel plans, pricing surges.
+
+5. Strategic Implications:
+   - Hotels can target lower-risk groups like Singles to optimize revenue.
+   - Enhancing communication and offers for Couples/Families might reduce cancellations.
+   - Predictive modeling can help forecast cancellation volume and timing.
+
+Project Summary:
+This analysis of hotel booking data, using Excel PivotTables and visual interpretations, reveals valuable patterns in guest behavior and cancellation trends. The insights offer potential strategies for revenue optimization and guest retention.
